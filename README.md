@@ -1,4 +1,4 @@
-#Anuncios de Venta de Coches#
+#Anuncios de Venta de Coches
 
 Esta aplicación en Streamlit permite explorar un conjunto de datos sobre anuncios de venta de coches a través de visualizaciones interactivas.
 
